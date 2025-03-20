@@ -14,12 +14,13 @@ The diagram for the tree is this one, which is also explained in the report.
 1. Navigate to the project directory in your terminal.
 2. Create a build directory and compile the project:
    ````
-   ```bash
    mkdir build && cd build
    cmake ..
    make
    ````
    
 3. Once the build is complete, run the executable:
-  `./BT`
+  ````
+   ./BT
+   ````
 
