@@ -8,12 +8,18 @@ The diagram for the tree is this one, which is also explained in the report.
 
 ![Tree picture](bt_diagram.png)
 
-to run the project, navigate to the project directory in the terminal, make a build directory and compile
 
-```mkdir build && cd build
-cmake..
-make```
+# How to Run the Project
 
-then run the executable by typing
-`./BT`
+1. Navigate to the project directory in your terminal.
+2. Create a build directory and compile the project:
+   ````
+   ```bash
+   mkdir build && cd build
+   cmake ..
+   make
+   ````
+   
+3. Once the build is complete, run the executable:
+  `./BT`
 
